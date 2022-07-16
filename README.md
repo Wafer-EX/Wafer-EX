@@ -1,2 +1,2 @@
-### Ой, на меня кто-то смотрит...
-\*спрятался под одеялом, но торчит лапка*
+### Hello wanderer!
+I'm a ~~furry~~ developer who loves to write interactive things ✈
